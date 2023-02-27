@@ -1,4 +1,4 @@
-![mygreatheader](image (2).png)
+![mygreatheader](image2.png)
 
 
 
