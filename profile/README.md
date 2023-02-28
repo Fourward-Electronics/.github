@@ -1,4 +1,4 @@
-![mygreatheader](image2.png)
+![mygreatheader](forward-electronics-logo.png)
 
 
 
