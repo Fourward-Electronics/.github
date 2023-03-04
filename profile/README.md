@@ -22,3 +22,8 @@ In this scenario, our client is looking for solutions that allow the following:
 - ability to share and backup files over the network
 - secure backup and storage of data in offsite locations
 - automation of tedious routine tasks such as user provisioning and file backup
+
+The attached Github repositories contain the following:
+- Project Prep Docs: documentation completed in preparation for this project
+- Scripts: Windows and Ubuntu scripts and configuration files that address the automation needs
+- SOPs: our presentation slides, relevant diagrams/topologies, and Standard Operating Procedures that we would use to support the customer in an ongoing business relationship
